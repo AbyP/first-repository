@@ -1,2 +1,2 @@
-# potential-adventure
+# first-repository
 sample repository 
